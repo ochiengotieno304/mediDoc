@@ -2,26 +2,11 @@
   "drug": [
     {
       "id": 0,
-      "name": "drug 1",
-      "description": "description",
-      "supplyer": [
-        {
-          "supplierid": 0,
-          "number": "0748484848"
-        }
-      ]
-    },
-    
-    {
-      "id": 1,
-      "name": "drug 2",
-      "description": "description 2",
-      "supplyer": [
-        {
-          "supplierid": 1,
-          "number": "07487373638"
-        }
-      ]
+      "name": "sucralfate and oxetacaine suspension",
+      "composition": ["Sucralfate", "Oxetacaine"],
+      "description": "is a sucrose sulfate-aluminium complex that binds to the hydrochloric acid in the stomach and acts like an acid buffer with cytorotective roerties",
+      "contradictions": "Hypersensitivity to sucralfate and oxetacaine",
+      "storage": ["store below 30 degrees celcius", "protect from light"]
     }
   ]
 }
